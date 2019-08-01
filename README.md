@@ -5,4 +5,4 @@ ADDED TEXT
 int i=k;
 k = 4;
 
-
+k = 2*k +4;
