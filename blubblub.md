@@ -1,8 +1,4 @@
 cat is /bin/cat
 Hello
 
-blub
-
-blubblub
-
-blub
+Muhh and Quark
